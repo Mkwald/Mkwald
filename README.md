@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! My name is Marlon Wald and I am a freshmen studying Mechanical Engineering at UW Madison.  
+
+
 
 <!--
 **Mkwald/Mkwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
